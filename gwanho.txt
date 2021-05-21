@@ -1,1 +1,5 @@
-abcd efg
+Hello
+My name is gwanho lee
+I'm glad to meet you.
+Have a nice day!
+By the way, programming is really cool!

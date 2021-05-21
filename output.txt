@@ -1,0 +1,2 @@
+Line: My name is gwanho lee
+Line: By the way, programming is really cool!
